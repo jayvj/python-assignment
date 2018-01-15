@@ -1,0 +1,4 @@
+Happy New Year with format BOLD and UNDERLINED
+Have a Great Year with format ITALIC
+Best Wishes with format BOLD and ITALIC and UNDERLINED
+Thank You with format BOLD and ITALIC and UNDERLINED and STRIKE-THROUGH
