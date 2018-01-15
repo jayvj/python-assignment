@@ -1,0 +1,4 @@
+[-25, -10, -7, -3, 2, 4, 8, 10]
+The three elements that sum to zero from the given array:
+(-10,2,8)
+(-7,-3,10)

@@ -1,0 +1,2 @@
+Given string: Ram Krishna
+String in upper case: RAM KRISHNA

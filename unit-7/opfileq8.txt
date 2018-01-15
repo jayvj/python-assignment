@@ -1,0 +1,14 @@
+Area of a rectangle: 6.0
+Perimeter of a rectangle: 10.0
+
+Area of a circle: 12.56
+Perimeter of a circle: 12.56
+
+Area of a triangle: 10.0
+Perimeter of a triangle: 6.0
+
+Area of a rhombus: 279.6
+Perimeter of a rhombus: 48.8
+
+Area of a pentagon: 15.0
+Perimeter of a pentagon: 10.0
