@@ -9,6 +9,7 @@ def replcombsort(str1,k):
     fo.write(res+"\n")
 
 
+
 try:
 	fo=open("opfileq4.txt","r+")
 	fo.seek(0,0)
