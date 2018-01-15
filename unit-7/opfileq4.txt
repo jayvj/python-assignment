@@ -1,0 +1,3 @@
+The given array: [1, 2, 3, 4, 5]
+Indices of two nos from array whose sum equals a specific target number:
+Index0 and Index4
