@@ -1,1 +1,1 @@
-# python-6th-sem
+# Python Assignments
